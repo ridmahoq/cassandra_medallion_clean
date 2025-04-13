@@ -1,0 +1,19 @@
+# Ignore Python virtual environment
+env/
+venv/
+
+# Ignore secrets
+token
+token.txt
+.env
+
+# Ignore zip bundles and large raw data
+*.zip
+*.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
