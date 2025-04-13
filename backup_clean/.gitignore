@@ -1,0 +1,8 @@
+# ignore venv
+env/
+
+# ignore token
+token.txt
+
+# ifnore secure_connect (it is the only zip file in folder)
+*.zip
